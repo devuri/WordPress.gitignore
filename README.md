@@ -1,0 +1,2 @@
+# WordPress.gitignore
+WordPress.gitignore
